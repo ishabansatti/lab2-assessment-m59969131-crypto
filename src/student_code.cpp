@@ -15,6 +15,7 @@ float getFloatValue() {
 char getCharValue() {
     // Declare a variable var_char of type character and set its value to A.
     //return var_char;
+    // my name is muawiya 
 }
 
 int convertFloatToInt(float value) {
